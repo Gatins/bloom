@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.bloommgmt.co	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1692873926|eEftBY3YmH44
+www.bloommgmt.co	TRUE	/	FALSE	1999999999	SameSite	None
+www.bloommgmt.co	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
